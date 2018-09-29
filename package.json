@@ -1,0 +1,78 @@
+{
+  "name": "pearlbea-gatsby",
+  "description": "My personal website",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "gatsby develop --open",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.0.2",
+    "gatsby": "next",
+    "gatsby-image": "^1.0.55",
+    "gatsby-plugin-favicon": "^3.1.4",
+    "gatsby-plugin-offline": "^1.0.18",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-sharp": "^1.6.48",
+    "gatsby-plugin-typography": "^1.7.19",
+    "gatsby-remark-images": "^1.5.67",
+    "gatsby-remark-prismjs": "^2.0.5",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-json": "^1.0.20",
+    "gatsby-transformer-remark": "^1.7.44",
+    "gatsby-transformer-sharp": "^1.6.27",
+    "prismjs": "^1.15.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-helmet": "^5.2.0",
+    "react-md": "^1.5.1",
+    "react-typography": "^0.16.13",
+    "typography": "^0.16.17",
+    "typography-theme-ocean-beach": "^0.15.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.4.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^23.5.0",
+    "react-test-renderer": "^16.5.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "<rootDir>/jest-preprocess.js"
+    },
+    "testRegex": "/.*(__tests__\\/.*)|(.*(test|spec))\\.jsx?$",
+    "moduleNameMapper": {
+      ".+\\.(css|styl|less|sass|scss)$": "identity-obj-proxy",
+      ".+\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js"
+    },
+    "testPathIgnorePatterns": [
+      "node_modules",
+      ".cache"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!(gatsby)/)"
+    ],
+    "globals": {
+      "__PATH_PREFIX__": ""
+    },
+    "testURL": "http://localhost",
+    "setupFiles": [
+      "<rootDir>/loadershim.js"
+    ]
+  }
+}

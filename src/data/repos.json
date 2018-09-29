@@ -1,0 +1,26 @@
+[
+    {
+        "name": "better-img",
+        "description": "A simple web component that adds a fallback url and logging function to an image. Vanilla, Nutmeg, Stencil, and Polymer versions.",
+        "language": "HTML",
+        "link": "https://github.com/pearlbea/better-img"
+    },
+    {
+        "name": "gdg-group",
+        "description": "A GDG web component built with Nutmeg.",
+        "language": "TypeScript",
+        "link": "https://github.com/pearlbea/gdg-group"
+    },
+    {
+        "name": "bloaty-mcbloatface",
+        "description": "A sample app to accompany PRPL on Rails workshop @ RailsConf 2018.",
+        "language": "Ruby",
+        "link": "https://github.com/pearlbea/bloaty-mcbloatface"
+    },
+    {
+        "name": "mini-form",
+        "description": "A demo web component that uses Custom Elements v1 and Shadow Dom v1.",
+        "language": "HTML",
+        "link": "https://github.com/pearlbea/mini-form"
+    }
+]

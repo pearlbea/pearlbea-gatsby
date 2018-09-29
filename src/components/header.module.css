@@ -1,0 +1,29 @@
+header {
+  margin-bottom: 100px;
+}
+.list {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 0.5em;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
+.item {
+  display: inline-block;
+  margin: 0 1em;
+}
+a {
+  text-shadow: none;
+  text-decoration: none;
+}
+.logo {
+  line-height: 32px;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  font-weight: 600;
+}
+.logoLink {
+  background-image: none;
+}

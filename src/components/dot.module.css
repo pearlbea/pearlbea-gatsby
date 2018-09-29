@@ -1,0 +1,19 @@
+.dot {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+.html {
+  composes: dot;
+  background-color: #e34c26;
+}
+.ruby {
+  composes: dot;
+  background-color: #701516;
+}
+.typescript {
+  composes: dot;
+  background-color: #2b7489;
+}
