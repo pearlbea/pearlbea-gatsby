@@ -23,7 +23,7 @@ export default ({ data }) => {
 
         <h2>Future talks</h2>
         <Grid container alignItems="stretch">
-          <Grid xs={12}>
+          <Grid item xs={12}>
             <ul style={listStyle}>
               <li>
                 <h3 style={{ marginTop: 20 }}>How Do Service Workers Even?</h3>
@@ -33,6 +33,26 @@ export default ({ data }) => {
               <li>
                 <a
                   href="https://mobileera.rocks/schedule/2018-10-02?sessionId=100"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  More info
+                </a>
+              </li>
+            </ul>
+          </Grid>
+          <Grid item xs={12}>
+            <ul style={listStyle}>
+              <li>
+                <h3 style={{ marginTop: 20 }}>
+                  Workshop: Get Flapping with Flutter
+                </h3>
+              </li>
+              <li style={{ marginBottom: 0 }}>Mobile Era, Oslo, Norway</li>
+              <li>October 31st, 2018</li>
+              <li>
+                <a
+                  href="https://ti.to/mobile-era/flutter-workshop"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
