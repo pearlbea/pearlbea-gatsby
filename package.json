@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^3.0.2",
-    "gatsby": "next",
+    "gatsby": "2.0.0",
     "gatsby-image": "^1.0.55",
     "gatsby-plugin-favicon": "^3.1.4",
     "gatsby-plugin-offline": "^1.0.18",
@@ -36,7 +36,7 @@
     "react-typography": "^0.16.13",
     "typography": "^0.16.17",
     "typography-theme-ocean-beach": "^0.15.11",
-    "snyk": "^1.105.0"
+    "snyk": "^1.116.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
