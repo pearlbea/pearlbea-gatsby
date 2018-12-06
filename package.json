@@ -9,7 +9,9 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "test": "jest",
-    "test-coverage": "jest --coverage"
+    "test-coverage": "jest --coverage",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "@material-ui/core": "^3.0.2",
@@ -18,9 +20,9 @@
     "gatsby-plugin-favicon": "^3.1.4",
     "gatsby-plugin-offline": "^1.0.18",
     "gatsby-plugin-react-helmet": "^2.0.11",
-    "gatsby-plugin-sharp": "^1.6.48",
+    "gatsby-plugin-sharp": "^2.0.5",
     "gatsby-plugin-typography": "^1.7.19",
-    "gatsby-remark-images": "^1.5.67",
+    "gatsby-remark-images": "^2.0.1",
     "gatsby-remark-prismjs": "^2.0.5",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-json": "^1.0.20",
@@ -33,7 +35,8 @@
     "react-md": "^1.5.1",
     "react-typography": "^0.16.13",
     "typography": "^0.16.17",
-    "typography-theme-ocean-beach": "^0.15.11"
+    "typography-theme-ocean-beach": "^0.15.11",
+    "snyk": "^1.105.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
@@ -74,5 +77,6 @@
     "setupFiles": [
       "<rootDir>/loadershim.js"
     ]
-  }
+  },
+  "snyk": true
 }
