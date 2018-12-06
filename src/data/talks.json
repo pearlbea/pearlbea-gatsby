@@ -1,1220 +1,1448 @@
 [
-    {
-        "id": "-LH9-K13Y-H5XF9wQQi8",
-        "title": "Wicked Fast ⚡ Mobile Web",
-        "date": "August 8-10th, 2018",
-        "description": "Mobile has outpaced desktop, especially in emerging markets. At the same time, the size of mobile apps has ballooned. Large applications fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Progressive web apps can serve mobile users better. We’ll show you how to make PWAs that download almost instantly and work offline while still providing the functionality of native apps.",
-        "eventTitle": "Midwest JS",
-        "tags": [
-            "progressivewebapps",
-            "perfmatters"
-        ],
-        "location": "Minneapolis, MN",
-        "links": [
-            {
-                "title": "Event",
-                "url": "http: //www.midwestjs.com/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1OCibeJVil_10Shx88JH426-VDDq2MhK4ewVpsKhdoRk",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-LH8wTBkC8kd7wpjCMiF",
-        "title": "const name: Language = 'TypeScript';",
-        "date": "August 8-10th, 2018",
-        "description": "Want to ship JavaScript with fewer errors? Want to write it in a language that is self-documenting, easy to debug, and well supported in your favorite editors? Yes you do! In this session, we'll show TypeScript newbies how to code with this superset of JavaScript that compiles to plain JavaScript. Use modern JS features like async/await, describe your APIs with powerful types, and get your code autocompleting with style.",
-        "eventTitle": "Midwest JS",
-        "tags": [
-            "typescript"
-        ],
-        "location": "Minneapolis, MN",
-        "links": [
-            {
-                "title": "Event",
-                "url": "http: //www.midwestjs.com/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1HkGh_fBU6FXYYgDIbJl9h_w56dEUEXcPczpDHeSTyCk",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-LINCDSTh6Q2zD_kL0Me",
-        "title": "Oh Node you didn’t! Go serverless with Cloud Functions for Firebase",
-        "date": "August 7th, 2018",
-        "description": "Cloud Functions for Firebase allow you to run event-driven Node.js on Google’s infrastructure. Functions offer rich integration with the Firebase and Google Cloud platforms, including Realtime Database, Firestore, and Authentication. Alternatively, you can augment your existing architecture with simple yet powerful HTTP webhooks. Use Functions to run background processes, send notifications to users, call third-party APIs, and more. No need to worry about server management: Functions are easy to deploy and scale automatically.",
-        "eventTitle": "GDG TC",
-        "tags": [
-            "firebase",
-            "javascript"
-        ],
-        "location": "Minneapolis, MN",
-        "links": [
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/gdg-tc/events/253141841/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1gKNpq4Pw-yj0SGzyTOaTX68OzWUg_r84QtV1YY29aMQ",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-L5FKqFC-hNbu9mSyi2K",
-        "title": "Web Components: Lego bricks of the web",
-        "date": "June 21-22nd, 2018",
-        "description": "Writing the same login form over and over? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. You’ll leave this session knowing how to build and test web components using best practices.",
-        "eventTitle": "We RISE Tech Conference",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Atlanta, GA",
-        "links": [
-            {
-                "title": "Event",
-                "url": "https: //werise.tech/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1Z4Ou9fThi0OR-pLva3UdQdaC4NJaXSiiIN4Os3Fo1R0",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Video",
-                "url": "https: //vimeo.com/279043106",
-                "tag": true,
-                "service": "vimeo"
-            }
-        ]
-    },
-    {
-        "id": "-LAsARo49bKU50Ymnim3",
-        "title": "Oh Node you didn’t! Go serverless with Cloud Functions for Firebase",
-        "date": "June 11th, 2018",
-        "description": "Cloud Functions for Firebase allow you to run event-driven Node.js on Google’s infrastructure. Functions offer rich integration with the Firebase and Google Cloud platforms, including Realtime Database, Firestore and Authentication. Alternatively, you can augment your existing architecture with simple yet powerful HTTP webhooks. Use Functions to run background processes, send notifications to users, call third-party APIs, and more. No need to worry about server management: Functions are easy to deploy and scale automatically.",
-        "eventTitle": "MadJS",
-        "tags": [
-            "firebase",
-            "javascript"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/MadisonJS/events/wqxgqlyxjbpb/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1l-rUpmREfqFoDMgGhDf6GANWlnDoe7ha-QF3SIggqik",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-LCMdMuGkknPKKc9acHB",
-        "title": "Google I/O Extended Recap",
-        "date": "June 15th, 2018",
-        "description": "It's Google I/O season again! Pearl and Abraham will be at #io18 taking notes. Come have a look at all the new developer tools, platforms, APIs, etc announced.",
-        "eventTitle": "GDG Madison",
-        "tags": [
-            "googleio"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/gdgmadison/events/248749497/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Google I/O",
-                "url": "https: //www.google.com/io",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1BMkxzP8QtEBpyPbCUKl3GXGPtRXKZ-XHOokpxko4lEQ",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-L5--GW61Db8VwUox-p9",
-        "title": "PRPL on Rails",
-        "date": "April 17-19th, 2018",
-        "description": "First we had full stack Rails. Then we had Rails APIs powering Single Page Applications. Now take it to the next level with PRPL Rails. The PRPL (Push, Render, Pre-cache, Lazy-load) pattern condenses the best practices for fast Progressive Web Apps. In this workshop, we’ll show you how to bring the performance lessons from modern JavaScript to your Rails apps. You don’t need a heavy JS framework to compete in today’s marketplace where instant loading and offline capability are expected.",
-        "eventTitle": "RailsConf",
-        "tags": [
-            "progressivewebapps",
-            "perfmatters",
-            "ruby",
-            "rails"
-        ],
-        "location": "Pittsburgh, PA",
-        "links": [
-            {
-                "title": "Event",
-                "url": "https: //railsconf.com/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1KoXhyTMxhxPsrIccmMbLmZy6qI8VMjnlpWV29Ab8nl4",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Workshop",
-                "url": "https: //www.notion.so/RailsConf-PRPL-on-Rails-470694f92d76434cb996967bb216b689",
-                "tag": true,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-L4XGwe63N_sxVJu9y_S",
-        "title": "Wicked Fast ⚡ Mobile Web",
-        "date": "March 27th, 2018",
-        "description": "Ever-larger mobile apps fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Make Progressive Web Apps that download almost instantly and work offline while still providing the functionality of native apps.",
-        "eventTitle": "MilwaukeeJS",
-        "tags": [
-            "progressivewebapps",
-            "perfmatters"
-        ],
-        "location": "Milwaukee, WI",
-        "links": [
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/milwaukeejs/events/247249876/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/11RokAGxYsM9wi7L6wK2tQR-5bmw5Wpc1H3ZehQObc4U",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-L4XGyqXUs5d8Wm_hluF",
-        "title": "Wicked Fast ⚡ Mobile Web",
-        "date": "March 21-23rd, 2018",
-        "description": "Ever-larger mobile apps fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Make Progressive Web Apps that download almost instantly and work offline while still providing the functionality of native apps.",
-        "eventTitle": "JazzCon.Tech",
-        "tags": [
-            "progressivewebapps",
-            "perfmatters"
-        ],
-        "location": "New Orleans, LA",
-        "links": [
-            {
-                "title": "Event",
-                "url": "http: //jazzcon.tech/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1XmBtLHuZG2AE8LoyeOGMt85tkXc-126VPQgQJMUKeZg",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-L364aLyZ3nMk0QYaBU8",
-        "title": "Wicked Fast ⚡ Mobile Web",
-        "date": "February 17th, 2018",
-        "description": "Ever-larger mobile apps fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Make Progressive Web Apps that download almost instantly and work offline while still providing the functionality of native apps.",
-        "eventTitle": "DevFest KC",
-        "tags": [
-            "progressivewebapps",
-            "perfmatters"
-        ],
-        "location": "Kansas City, MO",
-        "links": [
-            {
-                "title": "Event",
-                "url": "https: //devfestkc.com/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1rb9hj0QBCiHco6nAbjEZkAzi-gYynQ9Dpwk7geTUY5Y",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-L4XFgBQVuADA_659dmn",
-        "title": "Build, Test, and Deploy a Web Component with Nutmeg",
-        "date": "February 12th, 2018",
-        "description": "Nutmeg is a tool that scaffolds a component with tests and best practices baked in. We will walk you through the process of building, testing, and publishing a component, and you will leave with a basic component that you can modify and build upon.",
-        "eventTitle": "MadJS",
-        "tags": [
-            "nutmeg",
-            "webcomponents"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/MadisonJS/events/wqxgqlyxdbqb/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1DklFPKTZDVxiPbDTAQ9I52pyPjLxOgG9QaZGYfn1a-0",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Nutmeg",
-                "url": "https: //nutmeg.tools",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-L4XD4YE5oD6j3rU0eEO",
-        "title": "Wicked Fast ⚡ Mobile Web",
-        "date": "February 10th, 2018",
-        "description": "Mobile has far outpaced desktop, especially in emerging markets. At the same time, the size of mobile apps has ballooned. Large applications fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Progressive web apps can serve mobile users better. We’ll show you how to make PWAs that download almost instantly and work offline while still providing the functionality of native apps.",
-        "eventTitle": "DevFest MN",
-        "tags": [
-            "progressivewebapps",
-            "perfmatters"
-        ],
-        "location": "Minneapolis, MN",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1KtnpUlkpocftv1pV0xzEGYLkBI8xZBX4EodP19oMSuE",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //devfest.mn/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-L2RQBa9SprUe5OSYebU",
-        "title": "Build, Test, and Deploy a Web Component",
-        "date": "January 12th, 2018",
-        "description": "In this session, you will build, test, and deploy a web component using Nutmeg. Nutmeg is a tool that scaffolds a component with tests and best practices baked in. We will walk you through the process, and you will leave with a basic component that you can modify and build upon.",
-        "eventTitle": "WindyCity DevFest",
-        "tags": [
-            "nutmeg",
-            "webcomponents"
-        ],
-        "location": "Chicago, IL",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/19-9bdqK8fl8kjbCWR7txFbVFgJDUbmgty1VyM17xm4A",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //windycity.devfest.io",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Nutmeg",
-                "url": "https: //nutmeg.tools",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Video",
-                "url": "https: //www.youtube.com/watch?v=sDkr_gegFTk",
-                "tag": true,
-                "service": "youtube"
-            }
-        ]
-    },
-    {
-        "id": "-KyHNIlh-LPp2TdEpVPs",
-        "title": "Get Talking with Actions on Google",
-        "date": "November 18th, 2017",
-        "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences with Node.js. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
-        "eventTitle": "Ohio DevFest",
-        "tags": [
-            "actionsongoogle"
-        ],
-        "location": "Columbus, OH",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/18ZprFHDj6Z9dMqAZ81BQB1c1aFCP8AQOLdR_Ko0fLPQ",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //ohiodevfest.com/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KxhhEBwb_FmBY48u527",
-        "title": "Energize Your Development Flow With CLIs",
-        "date": "October 31st, 2017",
-        "description": "Creating personalized CLIs can help you streamline recurring tasks, such as setting up new development environments, managing deployments, and wrangling data.",
-        "eventTitle": "DevOpsDays Madison",
-        "tags": [
-            "cli",
-            "⚡"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/15_TkIBU_r4vKCECoNVF-uRRpSwV_k6KU3uKWiUoa_4M",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.devopsdays.org/events/2017-madison/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Video",
-                "url": "https: //www.youtube.com/watch?v=zLTT8jlHbvc",
-                "tag": true,
-                "service": "youtube"
-            }
-        ]
-    },
-    {
-        "id": "-KvaqXVilT2vtW29jy3w",
-        "title": "Get Talking with Actions on Google",
-        "date": "October 5th, 2017",
-        "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences with Node.js. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
-        "eventTitle": "Mobile Era",
-        "tags": [
-            "actionsongoogle"
-        ],
-        "location": "Oslo, Norway",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1UlOZt2UEt6Crr0-vNRGrjbMptWdSAA_TtuHxEXrrmGo",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //mobileera.rocks/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Video",
-                "url": "https: //vimeo.com/243435933",
-                "tag": true,
-                "service": "vimeo"
-            }
-        ]
-    },
-    {
-        "id": "-KuK3ne8fybZfk46Awp",
-        "title": "Web Components: Lego bricks of the web",
-        "date": "September 21st, 2017",
-        "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Use the native web platform to build performant, lightweight building blocks for your site. We will show you how to build custom elements using best practices and how to integrate them with your project.",
-        "eventTitle": "Connect.Tech",
-        "tags": [
-            "webcomponents"
-        ],
-        "location": "Atlanta, GA",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/15Kx0hYzH9V50qvbqSpFJTgX0lhejC6QK5UlkcVgvX0I",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //connect.tech/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Video",
-                "url": "https: //vimeo.com/248349297",
-                "tag": true,
-                "service": "vimeo"
-            }
-        ]
-    },
-    {
-        "id": "-KuK2kY4Q3-cRwoh5wA5",
-        "title": "Energize your development flow with CLIs",
-        "date": "September 21st, 2017",
-        "description": "Creating personalized CLIs can help you streamline recurring tasks, such as setting up new development environments, managing deployments, and wrangling data. We will walk you through building CLIs in JavaScript to help you avoid costly mistakes and ensure consistent results. Create simple commands that perform powerful tasks.",
-        "eventTitle": "Connect.Tech",
-        "tags": [
-            "cli",
-            "javascript"
-        ],
-        "location": "Atlanta, GA",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1CMsM3JGjldazx0efpaLjJVoKsXg8NQYmiKoPwIa6SKo",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //connect.tech/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KuK2OlDHUH8HD4-Qp2W",
-        "title": "Material Design that Delights",
-        "date": "September 21st, 2017",
-        "description": "By reputation, programmers aren’t great designers. 'Designed by developers' usually implies a terrible user experience. Material Design is helping to change this. Google’s UX designers have developed and refined the principles behind Material Design through testing with billions of users. Using Material Design, you can create intuitive experiences with smooth animations that delight users and showcase your brand. We’ll explain Material Design principles and show you how to implement them.",
-        "eventTitle": "Connect.Tech",
-        "tags": [
-            "materialdesign"
-        ],
-        "location": "Atlanta, GA",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1-34iJL28_Mxa39KJUeMRY5Ozb5mT8e5ovQbSLzw4s_0",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //connect.tech/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Video",
-                "url": "https: //vimeo.com/247560382",
-                "tag": true,
-                "service": "vimeo"
-            }
-        ]
-    },
-    {
-        "id": "-KsEs5JMWk87ZisLpW1F",
-        "title": "Material Design that Delights",
-        "date": "September 16th, 2017",
-        "description": "By reputation, programmers aren’t great designers. 'Designed by developers' usually implies a terrible user experience. Material Design is helping to change this. Google’s UX designers have developed and refined the principles behind Material Design through testing with billions of users. Using Material Design, you can create intuitive experiences with smooth animations that delight users and showcase your brand. We’ll explain Material Design principles and show you how to implement them.",
-        "eventTitle": "GDG Madison",
-        "tags": [
-            "materialdesign"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1_6parH6T8iUSZgjoVSI8nCYyYNL1rKyLAUoRrfxRsdk",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/gdg-madison/events/242690232/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-Krv_65pE2p9nJUXkhFl",
-        "title": "Leverage the power of native with Progressive Web Apps",
-        "date": "August 18th, 2017",
-        "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and homescreen access.",
-        "eventTitle": "Midwest JS",
-        "tags": [
-            "progressivewebapps"
-        ],
-        "location": "Minneapolis, MN",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1TybgcgjmAFB8AHTOQzBMrKOc4XAma-HFEvdWqdXUOQc",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //www.midwestjs.com/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-Krv_4SqDbjoADBL6r3Q",
-        "title": "Web Components: Lego Bricks of the Web",
-        "date": "August 17th, 2017",
-        "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
-        "eventTitle": "Midwest JS",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Minneapolis, MN",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1TXePoX459CGL8EEPYiAoLLdF092ev4f-GW0FK8Ftn6o",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //www.midwestjs.com/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-Krv_2GgLtDjYwGOEm8v",
-        "title": "Web Components: Lego Bricks of the Web",
-        "date": "August 8th, 2017",
-        "description": "Are you writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
-        "eventTitle": "Rockford Web Devs",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Rockford, IL",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1wgFQACcTgft_lVSgFsduMLznG-iCM4NFF4bC6ZNYR6M",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/Rockford-Web-Devs/events/238442439/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-Krv_0Yp5bPmylxcTnss",
-        "title": "Web Components: Lego Bricks of the Web",
-        "date": "August 3rd, 2017",
-        "description": "Are you writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
-        "eventTitle": "KCDC",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Kansas City, MO",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1k9uS824i0sieSy0O9KSBN67quT_5ZXQbC-w0P06PrWk",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //www.kcdc.info/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZzUSqxYoXmJWLGun",
-        "title": "Get the Power of Native with Progressive Web Apps",
-        "date": "July 22nd, 2017",
-        "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and home screen access.",
-        "eventTitle": "CoderCruise",
-        "tags": [
-            "progressivewebapps"
-        ],
-        "location": "Cozumel, Mexico",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1CGLXYGKqyb5Jxt62DAGDN8gjNJ56vZNJCzIG2OT6d64",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.codercruise.com/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Reviews",
-                "url": "https: //joind.in/event/codercruise/get-the-power-of-native-with-progressive-web-apps",
-                "tag": true,
-                "service": "joindin"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZxXjRvdxuo_pWZGy",
-        "title": "Getting Started with the Twitter API",
-        "date": "July 18th, 2017",
-        "description": "Learn from the author of TwitterOAuth how to quickly integrate your application with the Twitter API. We will show you how to speed up onboarding with 'Sign in with Twitter' authentication, bootstrap profiles with Twitter identities, and increase reach with quick publishing to user timelines. We’ll go over some basic do’s and don’ts of the Twitter API and show how easy it is to integrate using the TwitterOAuth open source library.",
-        "eventTitle": "CoderCruise",
-        "tags": [
-            "twitterapi",
-            "php"
-        ],
-        "location": "Grand Cayman, Cayman Islands",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1TCVGVUZ0BFNAcf56mxyMQI7hHUOp2GzRwOKkZJ_lQi0",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.codercruise.com/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Reviews",
-                "url": "https: //joind.in/event/codercruise/getting-started-with-the-twitter-api",
-                "tag": true,
-                "service": "joindin"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZtwL_ZafufriB-ta",
-        "title": "Web Components: Lego Bricks of the Web",
-        "date": "July 17th, 2017",
-        "description": "Are you writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
-        "eventTitle": "CoderCruise",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Montego Bay, Jamaica",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1ddQ12a2EtnVRgWl4fCqK3HCfB3JvXlJrPm2oqS_HwbI",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.codercruise.com/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Reviews",
-                "url": "https: //joind.in/event/codercruise/web-components-lego-bricks-of-the-web",
-                "tag": true,
-                "service": "joindin"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZsDivrXv69eEkiRs",
-        "title": "Leverage the power of native with Progressive Web Apps",
-        "date": "July 10th, 2017",
-        "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and homescreen access.  ",
-        "eventTitle": "MadJS",
-        "tags": [
-            "progressivewebapps"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/14FhXTP0Kx0Uli5YTzQcIWVUqKI7_-U_vr8NSZEo0rJA",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/MadisonJS/events/238952227/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZof6--agoRIC6vl0",
-        "title": "Google I/O Recap",
-        "date": "June 15th, 2017",
-        "description": "Experience highlights from the May 2017 Google I/O developer festival. Every spring, Google invites thousands of developers to a three-day festival where Google engineers and product managers teach technical skills, share insights, and announce new developer products. Abraham and Pearl will be there and they’re excited to tell you what they learned. ",
-        "eventTitle": "GDG Madison",
-        "tags": [
-            "googleio"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1J2VBd_msTRcZGuNk_Pj2i4SZEVXM_-hbsFW_kXxa_KE",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/gdg-madison/events/239355851/",
-                "tag": false,
-                "service": "meetup"
-            }
-        ]
-    },
-    {
-        "id": "-Kt8ZOHSO3M-nLnxH8Fh",
-        "title": "How to be a professional developer (or just act like one)",
-        "date": "April 27th, 2017",
-        "description": "We will share our stories becoming professional software developers. Where the adentures took us. What went wrong along the way. And what to consider when you start your journey.",
-        "eventTitle": "UW Madison CS Lecture",
-        "tags": [
-            "culture"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1VFobwLLehLUePGT5EyGkzAqRJVC-UPmxtFEgVqlKFh0",
-                "tag": false,
-                "service": "google-slides"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZmqmksA5WVIr1uoA",
-        "title": "Get talking with Actions on Google",
-        "date": "April 15th, 2017",
-        "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences or direct action commands. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
-        "eventTitle": "GDG Madison",
-        "tags": [
-            "actionsongoogle"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1trLvZmpDJca7Z0c-DaSUZg2ChdqFN5vj04q--TCcQKI",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/gdg-madison/events/237914183/",
-                "tag": false,
-                "service": "meetup"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZlA6DeLeyBqBT4Jy",
-        "title": "Web Components: Lego bricks of the web",
-        "date": "March 22nd, 2017",
-        "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Use the native web platform to build performant, lightweight building blocks for your site. We will show you how to build custom elements using best practices and how to integrate them with your Angular project.",
-        "eventTitle": "JazzCon.Tech",
-        "tags": [
-            "webcomponents",
-            "angular"
-        ],
-        "location": "New Orleans, LA",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/13ISIYU6v7xVY0IKMTBIi8VHI-VsIjwqBspAEbxspCCU",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //jazzcon.tech/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZjBO9DYgRe8s1IvT",
-        "title": "Web Components: Lego bricks of the web",
-        "date": "February 18th, 2017",
-        "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
-        "eventTitle": "DevFest KC",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Kansas City, MO",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1P4T2_aMgJlOO4seH4P6sDcQMgcAKkjUaOB-izjFVIdw",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //devfestkc.com/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZhHuFAWhgI4tlPmB",
-        "title": "Leverage the power of native with Progressive Web Apps",
-        "date": "February 18th, 2017",
-        "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and homescreen access.",
-        "eventTitle": "DevFest KC",
-        "tags": [
-            "progressivewebapps"
-        ],
-        "location": "Kansas City, MO",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1uONFEBmXg6k1LZvC4KPXMCyrEMhEeOG8_2_UQ1-uzio",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //devfestkc.com/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZed8RQb9Pz5LvMOY",
-        "title": "Get talking with Actions on Google",
-        "date": "February 18th, 2017",
-        "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences or direct action commands. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
-        "eventTitle": "DevFest KC",
-        "tags": [
-            "actionsongoogle"
-        ],
-        "location": "Kansas City, MO",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1L_IDKj0GzFmadZM__XAGo-7AzGDvlsFRUsid80O5TM0",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //devfestkc.com/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZaHltvInXVa-kjNt",
-        "title": "Get talking with Actions on Google",
-        "date": "February 8th, 2017",
-        "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences or direct action commands. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
-        "eventTitle": "GDG Chicago",
-        "tags": [
-            "actionsongoogle"
-        ],
-        "location": "Chicago, IL",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1EjoqN1gs7Pfr_RRHRNI7CmNJmL4DgxzEFsroAkbpU7A",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/Google-Developers-Group-GDG-Chicago/events/237220640/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZWvDU7VUnyPTDmSA",
-        "title": "Burn down your competitors with Firebase",
-        "date": "December 5th, 2016",
-        "description": "Google’s Firebase provides a suite of products to help you quickly build realtime apps. We’ll show how Firebase can take care of authentication, database, storage, and scaling while you concentrate on user experience and building an amazing product.",
-        "eventTitle": "ConFoo Vancouver",
-        "tags": [
-            "firebase"
-        ],
-        "location": "Vancouver, BC, CA",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1UBKBBubWQtIniOGsu8jFKpFm0j2abRacGwRxyxMqBEc",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //confoo.ca/en/yvr2016",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZRBmB_NDgJ6z2m0T",
-        "title": "Energize your development flow with CLIs",
-        "date": "December 7th, 2016",
-        "description": "Creating personalized CLIs can help you streamline recurring tasks, such as setting up new development environments, managing deployments, and wrangling data. We will walk you through building CLIs in Ruby to help you avoid costly mistakes and ensure consistent results. Create simple commands that perform powerful tasks.",
-        "eventTitle": "ConFoo Vancouver",
-        "tags": [
-            "cli",
-            "ruby"
-        ],
-        "location": "Vancouver, BC, CA",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1hB8NNTm8AwelCeARZO9wc_bL-3cabTbhDvccAWXGujM",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //confoo.ca/en/yvr2016",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZPN8eZVq6gUOfuQm",
-        "title": "Web Components: Lego bricks of the web",
-        "date": "November 3rd, 2016",
-        "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google's Polymer.",
-        "eventTitle": "DevFest West",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Mountain View, CA",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1TG01U4MpZCPHsTzPdICVGMiIik_onEGJAeTIoAj47ds",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //devfest2016.gdgsv.com/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZMwl5K6WfArx9xkz",
-        "title": "Leverage the power of native with Progressive Web Apps",
-        "date": "November 3rd, 2016",
-        "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and homescreen access.",
-        "eventTitle": "Mobile Era",
-        "tags": [
-            "progressivewebapps"
-        ],
-        "location": "Oslo, Norway",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1uRDz3fStZ8oNBi3TK4K0fgIp0rlfsOz8jRhpaUCDGsA",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //mobileera.rocks/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Video",
-                "url": "https: //vimeo.com/190713344",
-                "tag": true,
-                "service": "vimeo"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZKom6cxpaOUtaxkK",
-        "title": "Web Components: Lego bricks of the web",
-        "date": "October 20th, 2016",
-        "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google's Polymer.",
-        "eventTitle": "Connect.Tech",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Atlanta, GA",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/10mwL3h6RbjxEAH94M022EgHzFkIO_6lIb_HUWmT3l00",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //connect.tech/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZIrGfzwEjp7UKulY",
-        "title": "Web Components: Lego bricks of the web",
-        "date": "October 1st, 2016",
-        "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google's Polymer.",
-        "eventTitle": "Madison PHP Conference",
-        "tags": [
-            "webcomponents",
-            "polymer"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1TG01U4MpZCPHsTzPdICVGMiIik_onEGJAeTIoAj47ds",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "http: //2016.madisonphpconference.com/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Reviews",
-                "url": "https: //joind.in/event/madison-php-conference-2016/web-components-lego-bricks-of-the-web",
-                "tag": true,
-                "service": "joindin"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZGc2sMFHbGMkaRNc",
-        "title": "Leverage the power of native with Progressive Web Apps",
-        "date": "September 16th, 2016",
-        "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google's Polymer.",
-        "eventTitle": "Windy City DevCon",
-        "tags": [
-            "progressivewebapps"
-        ],
-        "location": "Chicago, IL",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1Cr_Cf2Ef9L7ojQWUTy0kuDMUZHqMYf3d_PO1MQkBtg4",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/Google-Developers-Group-GDG-Chicago/events/232947796/",
-                "tag": false,
-                "service": "external"
-            }
-        ]
-    },
-    {
-        "id": "-KrvZAS455BHznj4ugI2",
-        "title": "The Bendy Game of Life³",
-        "date": "June 15th, 2016",
-        "description": "The Bendy Game of Life is a 3D version of Conway’s Game of Life, which simulates the evolution of a population given initial settings chosen by the player. Visually, the game board is a 3D grid with a variable number of cells filled in or 'alive.' Depending on the number of 'alive' or 'dead' neighbor cells each cell has, it will die, survive, or come alive in the next turn or 'generation.' Generations continue following this algorithm until the population stabilizes.",
-        "eventTitle": "Madhackers",
-        "tags": [
-            "threejs",
-            "ruby",
-            "⚡"
-        ],
-        "location": "Madison, WI",
-        "links": [
-            {
-                "title": "Slides",
-                "url": "https: //docs.google.com/presentation/d/1idTXiseohF54-OTHLTReKgFGDxbOVlCAX9UMYUFiois",
-                "tag": false,
-                "service": "google-slides"
-            },
-            {
-                "title": "Event",
-                "url": "https: //www.meetup.com/madhackers/events/231725576/",
-                "tag": false,
-                "service": "external"
-            },
-            {
-                "title": "Video",
-                "url": "https: //www.youtube.com/watch?v=_hewWDDvkMQ",
-                "tag": true,
-                "service": "youtube"
-            }
-        ]
-    }
+  {
+    "id": "-LP90xu1JfaAgTCyhC3D",
+    "archived": false,
+    "nodePackages": ["workbox-cli"],
+    "githubRepos": [],
+    "speakerIds": ["-KsZTL-5U4v1UYxq4Zbp", "-KsZTNlw7dpLoH5mrsT4"],
+    "title": "How Do Service Workers Even?",
+    "date": "November 2nd, 2018",
+    "description": "Magic! But seriously, how do they work? Service workers do a lot of great stuff: cache files for offline, make your site faster, enable push notifications, and so much more. Service workers are the future of modern web applications but they can be difficult to work with. We'll guide you through the inner workings of these background JavaScript threads and show you how to avoid some common pitfalls. We'll also show how Google's open source Workbox library gives you the tools to build real world applications and manage the service worker lifecycle with ease.",
+    "eventTitle": "Mobile Era",
+    "tags": ["progressivewebapps"],
+    "location": "Oslo, Norway",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https://mobileera.rocks/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https://docs.google.com/presentation/d/1arh8x1GEnyVHnpavEWW2uNy5Ef9jTf1rB6dlneVz5ps",
+        "useAsTag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Video",
+        "url": "https://vimeo.com/298940533",
+        "useAsTag": true,
+        "service": "vimeo"
+      }
+    ],
+    "resources": [
+      {
+        "title": "The Service Worker Lifecycle",
+        "url": "https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "A Tale of Four Caches",
+        "url": "https://calendar.perfplanet.com/2016/a-tale-of-four-caches/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Using Service Workers",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Service Worker Checklist",
+        "url": "https://developers.google.com/web/tools/workbox/guides/service-worker-checklist",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "How can I remove a buggy service worker, or implement a \"kill switch\"?",
+        "url": "https://stackoverflow.com/a/38980776/26406",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Service worker JavaScript update frequency (every 24 hours?)",
+        "url": "https://stackoverflow.com/a/38854905/26406",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Recommended precache payload size?",
+        "url": "https://stackoverflow.com/a/51595559/26406",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "What limitations apply to opaque responses?",
+        "url": "https://stackoverflow.com/a/39109790/26406",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Conflicting service worker scopes (broader and narrow)",
+        "url": "https://stackoverflow.com/a/47149987/26406",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Estimating Available Storage Space",
+        "url": "https://developers.google.com/web/updates/2017/08/estimating-available-storage-space",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Service Workers in Production",
+        "url": "https://developers.google.com/web/showcase/2015/service-workers-iowa",
+        "useAsTag": false,
+        "service": "external"
+      }
+    ],
+    "sponsorIds": ["-Kt8bVVFVc8xQNx9AP_E"],
+    "tweetIds": [
+      "1009144217585815553",
+      "1009146601099747328",
+      "1009146548339519489",
+      "1009461773722845185",
+      "1042916266175025152",
+      "1053733653199630337",
+      "1053760100018593792",
+      "1054629748691947520",
+      "1055831186730352640",
+      "1058266208171184128",
+      "1058271048322424833",
+      "1058272447206748160"
+    ]
+  },
+  {
+    "id": "-LP961nGz8QvS_Oq1WNY",
+    "archived": false,
+    "nodePackages": [],
+    "githubRepos": ["flutter/flutter"],
+    "speakerIds": ["-KsZTL-5U4v1UYxq4Zbp", "-KsZTNlw7dpLoH5mrsT4"],
+    "title": "Get Flapping with Flutter",
+    "date": "October 31st, 2018",
+    "description": "Flutter is tool from Google for quickly creating beautiful native apps for iOS and Android. In this introductory workshop, we’ll take you from zero to soaring and you will leave with a fully functional app that you can use as a starting point for your own creations.",
+    "eventTitle": "Mobile Era",
+    "tags": ["flutter", "workshop"],
+    "location": "Oslo, Norway",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https://mobileera.rocks/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https://docs.google.com/presentation/d/1fAOVKy-V2Sm4d5VjHJiACTaIa4YNpM8PDuBnLoLdQq4",
+        "useAsTag": false,
+        "service": "google-slides"
+      }
+    ],
+    "resources": [
+      {
+        "title": "Flutter.io",
+        "url": "https://flutter.io/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Flutter by Example",
+        "url": "https://flutterbyexample.com/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Flutter Codelabs",
+        "url": "https://codelabs.developers.google.com/?cat=Flutter",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Flutter Codelabs",
+        "url": "https://codelabs.developers.google.com/?cat=Flutter",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Udacity - Build Native Mobile Apps with Flutter",
+        "url": "https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Zero to One with Flutter",
+        "url": "https://medium.com/flutter-io/zero-to-one-with-flutter-43b13fd7b354",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "It's All Widgets!",
+        "url": "https://itsallwidgets.com/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "How I built a cross-platform, connected app in ~7 days",
+        "url": "https://medium.com/@aubykhan/how-i-built-a-cross-platform-connected-app-in-7-days-93728a987424",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Awesome Flutter",
+        "url": "https://github.com/Solido/awesome-flutter",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "What’s Revolutionary about Flutter",
+        "url": "https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Writing widget tests for navigation events",
+        "url": "https://iirokrankka.com/2018/08/22/writing-widget-tests-for-navigation-events/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Why Flutter doesn’t use OEM widgets",
+        "url": "https://medium.com/flutter-io/why-flutter-doesnt-use-oem-widgets-94746e812510",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Why Flutter Uses Dart",
+        "url": "https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf",
+        "useAsTag": false,
+        "service": "external"
+      }
+    ],
+    "sponsorIds": ["-Kt8bVVFVc8xQNx9AP_E"],
+    "tweetIds": [
+      "1043069070436909057",
+      "1045785299543101440",
+      "1045825768222326784",
+      "1054630620435951618",
+      "1054992134951092225",
+      "1055442879018090497",
+      "1057343706028785665",
+      "1057534107096363008",
+      "1057614901131272195"
+    ]
+  },
+  {
+    "id": "-LOtsfrT-CXp-Va8TnXZ",
+    "archived": false,
+    "nodePackages": [],
+    "githubRepos": ["flutter/flutter"],
+    "speakerIds": ["-KsZTL-5U4v1UYxq4Zbp", "-KsZTNlw7dpLoH5mrsT4"],
+    "title": "Get Flapping with Flutter",
+    "date": "October 15th, 2018",
+    "description": "Flutter is hybrid mobile framework from Google that allows you to quickly create beautiful native apps for iOS and Android from a single codebase. Abraham and Pearl will give an tour of Flutter, highlighting its widget library and tools for speedy development.",
+    "eventTitle": "GDG Madison",
+    "tags": ["flutter"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https://www.meetup.com/gdgmadison/events/254581634/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https://docs.google.com/presentation/d/1tGseDua5A2LRAg2OFx0FXfkVBhofp0nvWxMbzJ_XebI",
+        "useAsTag": false,
+        "service": "google-slides"
+      }
+    ],
+    "resources": [
+      {
+        "title": "Flutter.io",
+        "url": "https://flutter.io/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Flutter by Example",
+        "url": "https://flutterbyexample.com/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Flutter Codelabs",
+        "url": "https://codelabs.developers.google.com/?cat=Flutter",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Flutter Codelabs",
+        "url": "https://codelabs.developers.google.com/?cat=Flutter",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Udacity - Build Native Mobile Apps with Flutter",
+        "url": "https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Zero to One with Flutter",
+        "url": "https://medium.com/flutter-io/zero-to-one-with-flutter-43b13fd7b354",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "It's All Widgets!",
+        "url": "https://itsallwidgets.com/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "How I built a cross-platform, connected app in ~7 days",
+        "url": "https://medium.com/@aubykhan/how-i-built-a-cross-platform-connected-app-in-7-days-93728a987424",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Awesome Flutter",
+        "url": "https://github.com/Solido/awesome-flutter",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "What’s Revolutionary about Flutter",
+        "url": "https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Writing widget tests for navigation events",
+        "url": "https://iirokrankka.com/2018/08/22/writing-widget-tests-for-navigation-events/",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Why Flutter doesn’t use OEM widgets",
+        "url": "https://medium.com/flutter-io/why-flutter-doesnt-use-oem-widgets-94746e812510",
+        "useAsTag": false,
+        "service": "external"
+      },
+      {
+        "title": "Why Flutter Uses Dart",
+        "url": "https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf",
+        "useAsTag": false,
+        "service": "external"
+      }
+    ],
+    "sponsorIds": ["-Kt8bVVFVc8xQNx9AP_E", "-KxPCvJa7J1Ggg1xZpCp"],
+    "tweetIds": ["1051614088260923392"]
+  },
+  {
+    "id": "-LH9-K13Y-H5XF9wQQi8",
+    "title": "Wicked Fast ⚡ Mobile Web",
+    "date": "August 8-10th, 2018",
+    "description": "Mobile has outpaced desktop, especially in emerging markets. At the same time, the size of mobile apps has ballooned. Large applications fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Progressive web apps can serve mobile users better. We’ll show you how to make PWAs that download almost instantly and work offline while still providing the functionality of native apps.",
+    "eventTitle": "Midwest JS",
+    "tags": ["progressivewebapps", "perfmatters"],
+    "location": "Minneapolis, MN",
+    "links": [
+      {
+        "title": "Event",
+        "url": "http: //www.midwestjs.com/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1OCibeJVil_10Shx88JH426-VDDq2MhK4ewVpsKhdoRk",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-LH8wTBkC8kd7wpjCMiF",
+    "title": "const name: Language = 'TypeScript';",
+    "date": "August 8-10th, 2018",
+    "description": "Want to ship JavaScript with fewer errors? Want to write it in a language that is self-documenting, easy to debug, and well supported in your favorite editors? Yes you do! In this session, we'll show TypeScript newbies how to code with this superset of JavaScript that compiles to plain JavaScript. Use modern JS features like async/await, describe your APIs with powerful types, and get your code autocompleting with style.",
+    "eventTitle": "Midwest JS",
+    "tags": ["typescript"],
+    "location": "Minneapolis, MN",
+    "links": [
+      {
+        "title": "Event",
+        "url": "http: //www.midwestjs.com/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1HkGh_fBU6FXYYgDIbJl9h_w56dEUEXcPczpDHeSTyCk",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-LINCDSTh6Q2zD_kL0Me",
+    "title": "Oh Node you didn’t! Go serverless with Cloud Functions for Firebase",
+    "date": "August 7th, 2018",
+    "description": "Cloud Functions for Firebase allow you to run event-driven Node.js on Google’s infrastructure. Functions offer rich integration with the Firebase and Google Cloud platforms, including Realtime Database, Firestore, and Authentication. Alternatively, you can augment your existing architecture with simple yet powerful HTTP webhooks. Use Functions to run background processes, send notifications to users, call third-party APIs, and more. No need to worry about server management: Functions are easy to deploy and scale automatically.",
+    "eventTitle": "GDG TC",
+    "tags": ["firebase", "javascript"],
+    "location": "Minneapolis, MN",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/gdg-tc/events/253141841/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1gKNpq4Pw-yj0SGzyTOaTX68OzWUg_r84QtV1YY29aMQ",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-L5FKqFC-hNbu9mSyi2K",
+    "title": "Web Components: Lego bricks of the web",
+    "date": "June 21-22nd, 2018",
+    "description": "Writing the same login form over and over? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. You’ll leave this session knowing how to build and test web components using best practices.",
+    "eventTitle": "We RISE Tech Conference",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Atlanta, GA",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https: //werise.tech/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1Z4Ou9fThi0OR-pLva3UdQdaC4NJaXSiiIN4Os3Fo1R0",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Video",
+        "url": "https: //vimeo.com/279043106",
+        "tag": true,
+        "service": "vimeo"
+      }
+    ]
+  },
+  {
+    "id": "-LAsARo49bKU50Ymnim3",
+    "title": "Oh Node you didn’t! Go serverless with Cloud Functions for Firebase",
+    "date": "June 11th, 2018",
+    "description": "Cloud Functions for Firebase allow you to run event-driven Node.js on Google’s infrastructure. Functions offer rich integration with the Firebase and Google Cloud platforms, including Realtime Database, Firestore and Authentication. Alternatively, you can augment your existing architecture with simple yet powerful HTTP webhooks. Use Functions to run background processes, send notifications to users, call third-party APIs, and more. No need to worry about server management: Functions are easy to deploy and scale automatically.",
+    "eventTitle": "MadJS",
+    "tags": ["firebase", "javascript"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/MadisonJS/events/wqxgqlyxjbpb/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1l-rUpmREfqFoDMgGhDf6GANWlnDoe7ha-QF3SIggqik",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-LCMdMuGkknPKKc9acHB",
+    "title": "Google I/O Extended Recap",
+    "date": "June 15th, 2018",
+    "description": "It's Google I/O season again! Pearl and Abraham will be at #io18 taking notes. Come have a look at all the new developer tools, platforms, APIs, etc announced.",
+    "eventTitle": "GDG Madison",
+    "tags": ["googleio"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/gdgmadison/events/248749497/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Google I/O",
+        "url": "https: //www.google.com/io",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1BMkxzP8QtEBpyPbCUKl3GXGPtRXKZ-XHOokpxko4lEQ",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-L5--GW61Db8VwUox-p9",
+    "title": "PRPL on Rails",
+    "date": "April 17-19th, 2018",
+    "description": "First we had full stack Rails. Then we had Rails APIs powering Single Page Applications. Now take it to the next level with PRPL Rails. The PRPL (Push, Render, Pre-cache, Lazy-load) pattern condenses the best practices for fast Progressive Web Apps. In this workshop, we’ll show you how to bring the performance lessons from modern JavaScript to your Rails apps. You don’t need a heavy JS framework to compete in today’s marketplace where instant loading and offline capability are expected.",
+    "eventTitle": "RailsConf",
+    "tags": ["progressivewebapps", "perfmatters", "ruby", "rails"],
+    "location": "Pittsburgh, PA",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https: //railsconf.com/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1KoXhyTMxhxPsrIccmMbLmZy6qI8VMjnlpWV29Ab8nl4",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Workshop",
+        "url": "https: //www.notion.so/RailsConf-PRPL-on-Rails-470694f92d76434cb996967bb216b689",
+        "tag": true,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-L4XGwe63N_sxVJu9y_S",
+    "title": "Wicked Fast ⚡ Mobile Web",
+    "date": "March 27th, 2018",
+    "description": "Ever-larger mobile apps fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Make Progressive Web Apps that download almost instantly and work offline while still providing the functionality of native apps.",
+    "eventTitle": "MilwaukeeJS",
+    "tags": ["progressivewebapps", "perfmatters"],
+    "location": "Milwaukee, WI",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/milwaukeejs/events/247249876/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/11RokAGxYsM9wi7L6wK2tQR-5bmw5Wpc1H3ZehQObc4U",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-L4XGyqXUs5d8Wm_hluF",
+    "title": "Wicked Fast ⚡ Mobile Web",
+    "date": "March 21-23rd, 2018",
+    "description": "Ever-larger mobile apps fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Make Progressive Web Apps that download almost instantly and work offline while still providing the functionality of native apps.",
+    "eventTitle": "JazzCon.Tech",
+    "tags": ["progressivewebapps", "perfmatters"],
+    "location": "New Orleans, LA",
+    "links": [
+      {
+        "title": "Event",
+        "url": "http: //jazzcon.tech/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1XmBtLHuZG2AE8LoyeOGMt85tkXc-126VPQgQJMUKeZg",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-L364aLyZ3nMk0QYaBU8",
+    "title": "Wicked Fast ⚡ Mobile Web",
+    "date": "February 17th, 2018",
+    "description": "Ever-larger mobile apps fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Make Progressive Web Apps that download almost instantly and work offline while still providing the functionality of native apps.",
+    "eventTitle": "DevFest KC",
+    "tags": ["progressivewebapps", "perfmatters"],
+    "location": "Kansas City, MO",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https: //devfestkc.com/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1rb9hj0QBCiHco6nAbjEZkAzi-gYynQ9Dpwk7geTUY5Y",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-L4XFgBQVuADA_659dmn",
+    "title": "Build, Test, and Deploy a Web Component with Nutmeg",
+    "date": "February 12th, 2018",
+    "description": "Nutmeg is a tool that scaffolds a component with tests and best practices baked in. We will walk you through the process of building, testing, and publishing a component, and you will leave with a basic component that you can modify and build upon.",
+    "eventTitle": "MadJS",
+    "tags": ["nutmeg", "webcomponents"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/MadisonJS/events/wqxgqlyxdbqb/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1DklFPKTZDVxiPbDTAQ9I52pyPjLxOgG9QaZGYfn1a-0",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Nutmeg",
+        "url": "https: //nutmeg.tools",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-L4XD4YE5oD6j3rU0eEO",
+    "title": "Wicked Fast ⚡ Mobile Web",
+    "date": "February 10th, 2018",
+    "description": "Mobile has far outpaced desktop, especially in emerging markets. At the same time, the size of mobile apps has ballooned. Large applications fail to serve the majority of mobile users, who have low-powered devices and unreliable network connections. Progressive web apps can serve mobile users better. We’ll show you how to make PWAs that download almost instantly and work offline while still providing the functionality of native apps.",
+    "eventTitle": "DevFest MN",
+    "tags": ["progressivewebapps", "perfmatters"],
+    "location": "Minneapolis, MN",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1KtnpUlkpocftv1pV0xzEGYLkBI8xZBX4EodP19oMSuE",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //devfest.mn/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-L2RQBa9SprUe5OSYebU",
+    "title": "Build, Test, and Deploy a Web Component",
+    "date": "January 12th, 2018",
+    "description": "In this session, you will build, test, and deploy a web component using Nutmeg. Nutmeg is a tool that scaffolds a component with tests and best practices baked in. We will walk you through the process, and you will leave with a basic component that you can modify and build upon.",
+    "eventTitle": "WindyCity DevFest",
+    "tags": ["nutmeg", "webcomponents"],
+    "location": "Chicago, IL",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/19-9bdqK8fl8kjbCWR7txFbVFgJDUbmgty1VyM17xm4A",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //windycity.devfest.io",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Nutmeg",
+        "url": "https: //nutmeg.tools",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Video",
+        "url": "https: //www.youtube.com/watch?v=sDkr_gegFTk",
+        "tag": true,
+        "service": "youtube"
+      }
+    ]
+  },
+  {
+    "id": "-KyHNIlh-LPp2TdEpVPs",
+    "title": "Get Talking with Actions on Google",
+    "date": "November 18th, 2017",
+    "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences with Node.js. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
+    "eventTitle": "Ohio DevFest",
+    "tags": ["actionsongoogle"],
+    "location": "Columbus, OH",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/18ZprFHDj6Z9dMqAZ81BQB1c1aFCP8AQOLdR_Ko0fLPQ",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //ohiodevfest.com/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KxhhEBwb_FmBY48u527",
+    "title": "Energize Your Development Flow With CLIs",
+    "date": "October 31st, 2017",
+    "description": "Creating personalized CLIs can help you streamline recurring tasks, such as setting up new development environments, managing deployments, and wrangling data.",
+    "eventTitle": "DevOpsDays Madison",
+    "tags": ["cli", "⚡"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/15_TkIBU_r4vKCECoNVF-uRRpSwV_k6KU3uKWiUoa_4M",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.devopsdays.org/events/2017-madison/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Video",
+        "url": "https: //www.youtube.com/watch?v=zLTT8jlHbvc",
+        "tag": true,
+        "service": "youtube"
+      }
+    ]
+  },
+  {
+    "id": "-KvaqXVilT2vtW29jy3w",
+    "title": "Get Talking with Actions on Google",
+    "date": "October 5th, 2017",
+    "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences with Node.js. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
+    "eventTitle": "Mobile Era",
+    "tags": ["actionsongoogle"],
+    "location": "Oslo, Norway",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1UlOZt2UEt6Crr0-vNRGrjbMptWdSAA_TtuHxEXrrmGo",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //mobileera.rocks/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Video",
+        "url": "https: //vimeo.com/243435933",
+        "tag": true,
+        "service": "vimeo"
+      }
+    ]
+  },
+  {
+    "id": "-KuK3ne8fybZfk46Awp",
+    "title": "Web Components: Lego bricks of the web",
+    "date": "September 21st, 2017",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Use the native web platform to build performant, lightweight building blocks for your site. We will show you how to build custom elements using best practices and how to integrate them with your project.",
+    "eventTitle": "Connect.Tech",
+    "tags": ["webcomponents"],
+    "location": "Atlanta, GA",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/15Kx0hYzH9V50qvbqSpFJTgX0lhejC6QK5UlkcVgvX0I",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //connect.tech/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Video",
+        "url": "https: //vimeo.com/248349297",
+        "tag": true,
+        "service": "vimeo"
+      }
+    ]
+  },
+  {
+    "id": "-KuK2kY4Q3-cRwoh5wA5",
+    "title": "Energize your development flow with CLIs",
+    "date": "September 21st, 2017",
+    "description": "Creating personalized CLIs can help you streamline recurring tasks, such as setting up new development environments, managing deployments, and wrangling data. We will walk you through building CLIs in JavaScript to help you avoid costly mistakes and ensure consistent results. Create simple commands that perform powerful tasks.",
+    "eventTitle": "Connect.Tech",
+    "tags": ["cli", "javascript"],
+    "location": "Atlanta, GA",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1CMsM3JGjldazx0efpaLjJVoKsXg8NQYmiKoPwIa6SKo",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //connect.tech/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KuK2OlDHUH8HD4-Qp2W",
+    "title": "Material Design that Delights",
+    "date": "September 21st, 2017",
+    "description": "By reputation, programmers aren’t great designers. 'Designed by developers' usually implies a terrible user experience. Material Design is helping to change this. Google’s UX designers have developed and refined the principles behind Material Design through testing with billions of users. Using Material Design, you can create intuitive experiences with smooth animations that delight users and showcase your brand. We’ll explain Material Design principles and show you how to implement them.",
+    "eventTitle": "Connect.Tech",
+    "tags": ["materialdesign"],
+    "location": "Atlanta, GA",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1-34iJL28_Mxa39KJUeMRY5Ozb5mT8e5ovQbSLzw4s_0",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //connect.tech/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Video",
+        "url": "https: //vimeo.com/247560382",
+        "tag": true,
+        "service": "vimeo"
+      }
+    ]
+  },
+  {
+    "id": "-KsEs5JMWk87ZisLpW1F",
+    "title": "Material Design that Delights",
+    "date": "September 16th, 2017",
+    "description": "By reputation, programmers aren’t great designers. 'Designed by developers' usually implies a terrible user experience. Material Design is helping to change this. Google’s UX designers have developed and refined the principles behind Material Design through testing with billions of users. Using Material Design, you can create intuitive experiences with smooth animations that delight users and showcase your brand. We’ll explain Material Design principles and show you how to implement them.",
+    "eventTitle": "GDG Madison",
+    "tags": ["materialdesign"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1_6parH6T8iUSZgjoVSI8nCYyYNL1rKyLAUoRrfxRsdk",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/gdg-madison/events/242690232/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-Krv_65pE2p9nJUXkhFl",
+    "title": "Leverage the power of native with Progressive Web Apps",
+    "date": "August 18th, 2017",
+    "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and homescreen access.",
+    "eventTitle": "Midwest JS",
+    "tags": ["progressivewebapps"],
+    "location": "Minneapolis, MN",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1TybgcgjmAFB8AHTOQzBMrKOc4XAma-HFEvdWqdXUOQc",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //www.midwestjs.com/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-Krv_4SqDbjoADBL6r3Q",
+    "title": "Web Components: Lego Bricks of the Web",
+    "date": "August 17th, 2017",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
+    "eventTitle": "Midwest JS",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Minneapolis, MN",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1TXePoX459CGL8EEPYiAoLLdF092ev4f-GW0FK8Ftn6o",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //www.midwestjs.com/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-Krv_2GgLtDjYwGOEm8v",
+    "title": "Web Components: Lego Bricks of the Web",
+    "date": "August 8th, 2017",
+    "description": "Are you writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
+    "eventTitle": "Rockford Web Devs",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Rockford, IL",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1wgFQACcTgft_lVSgFsduMLznG-iCM4NFF4bC6ZNYR6M",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/Rockford-Web-Devs/events/238442439/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-Krv_0Yp5bPmylxcTnss",
+    "title": "Web Components: Lego Bricks of the Web",
+    "date": "August 3rd, 2017",
+    "description": "Are you writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
+    "eventTitle": "KCDC",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Kansas City, MO",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1k9uS824i0sieSy0O9KSBN67quT_5ZXQbC-w0P06PrWk",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //www.kcdc.info/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZzUSqxYoXmJWLGun",
+    "title": "Get the Power of Native with Progressive Web Apps",
+    "date": "July 22nd, 2017",
+    "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and home screen access.",
+    "eventTitle": "CoderCruise",
+    "tags": ["progressivewebapps"],
+    "location": "Cozumel, Mexico",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1CGLXYGKqyb5Jxt62DAGDN8gjNJ56vZNJCzIG2OT6d64",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.codercruise.com/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Reviews",
+        "url": "https: //joind.in/event/codercruise/get-the-power-of-native-with-progressive-web-apps",
+        "tag": true,
+        "service": "joindin"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZxXjRvdxuo_pWZGy",
+    "title": "Getting Started with the Twitter API",
+    "date": "July 18th, 2017",
+    "description": "Learn from the author of TwitterOAuth how to quickly integrate your application with the Twitter API. We will show you how to speed up onboarding with 'Sign in with Twitter' authentication, bootstrap profiles with Twitter identities, and increase reach with quick publishing to user timelines. We’ll go over some basic do’s and don’ts of the Twitter API and show how easy it is to integrate using the TwitterOAuth open source library.",
+    "eventTitle": "CoderCruise",
+    "tags": ["twitterapi", "php"],
+    "location": "Grand Cayman, Cayman Islands",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1TCVGVUZ0BFNAcf56mxyMQI7hHUOp2GzRwOKkZJ_lQi0",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.codercruise.com/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Reviews",
+        "url": "https: //joind.in/event/codercruise/getting-started-with-the-twitter-api",
+        "tag": true,
+        "service": "joindin"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZtwL_ZafufriB-ta",
+    "title": "Web Components: Lego Bricks of the Web",
+    "date": "July 17th, 2017",
+    "description": "Are you writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
+    "eventTitle": "CoderCruise",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Montego Bay, Jamaica",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1ddQ12a2EtnVRgWl4fCqK3HCfB3JvXlJrPm2oqS_HwbI",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.codercruise.com/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Reviews",
+        "url": "https: //joind.in/event/codercruise/web-components-lego-bricks-of-the-web",
+        "tag": true,
+        "service": "joindin"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZsDivrXv69eEkiRs",
+    "title": "Leverage the power of native with Progressive Web Apps",
+    "date": "July 10th, 2017",
+    "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and homescreen access.  ",
+    "eventTitle": "MadJS",
+    "tags": ["progressivewebapps"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/14FhXTP0Kx0Uli5YTzQcIWVUqKI7_-U_vr8NSZEo0rJA",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/MadisonJS/events/238952227/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZof6--agoRIC6vl0",
+    "title": "Google I/O Recap",
+    "date": "June 15th, 2017",
+    "description": "Experience highlights from the May 2017 Google I/O developer festival. Every spring, Google invites thousands of developers to a three-day festival where Google engineers and product managers teach technical skills, share insights, and announce new developer products. Abraham and Pearl will be there and they’re excited to tell you what they learned. ",
+    "eventTitle": "GDG Madison",
+    "tags": ["googleio"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1J2VBd_msTRcZGuNk_Pj2i4SZEVXM_-hbsFW_kXxa_KE",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/gdg-madison/events/239355851/",
+        "tag": false,
+        "service": "meetup"
+      }
+    ]
+  },
+  {
+    "id": "-Kt8ZOHSO3M-nLnxH8Fh",
+    "title": "How to be a professional developer (or just act like one)",
+    "date": "April 27th, 2017",
+    "description": "We will share our stories becoming professional software developers. Where the adentures took us. What went wrong along the way. And what to consider when you start your journey.",
+    "eventTitle": "UW Madison CS Lecture",
+    "tags": ["culture"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1VFobwLLehLUePGT5EyGkzAqRJVC-UPmxtFEgVqlKFh0",
+        "tag": false,
+        "service": "google-slides"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZmqmksA5WVIr1uoA",
+    "title": "Get talking with Actions on Google",
+    "date": "April 15th, 2017",
+    "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences or direct action commands. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
+    "eventTitle": "GDG Madison",
+    "tags": ["actionsongoogle"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1trLvZmpDJca7Z0c-DaSUZg2ChdqFN5vj04q--TCcQKI",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/gdg-madison/events/237914183/",
+        "tag": false,
+        "service": "meetup"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZlA6DeLeyBqBT4Jy",
+    "title": "Web Components: Lego bricks of the web",
+    "date": "March 22nd, 2017",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Use the native web platform to build performant, lightweight building blocks for your site. We will show you how to build custom elements using best practices and how to integrate them with your Angular project.",
+    "eventTitle": "JazzCon.Tech",
+    "tags": ["webcomponents", "angular"],
+    "location": "New Orleans, LA",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/13ISIYU6v7xVY0IKMTBIi8VHI-VsIjwqBspAEbxspCCU",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //jazzcon.tech/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZjBO9DYgRe8s1IvT",
+    "title": "Web Components: Lego bricks of the web",
+    "date": "February 18th, 2017",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build custom elements and introduce you to the existing elements and tools available from Google’s Polymer Project.",
+    "eventTitle": "DevFest KC",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Kansas City, MO",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1P4T2_aMgJlOO4seH4P6sDcQMgcAKkjUaOB-izjFVIdw",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //devfestkc.com/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZhHuFAWhgI4tlPmB",
+    "title": "Leverage the power of native with Progressive Web Apps",
+    "date": "February 18th, 2017",
+    "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and homescreen access.",
+    "eventTitle": "DevFest KC",
+    "tags": ["progressivewebapps"],
+    "location": "Kansas City, MO",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1uONFEBmXg6k1LZvC4KPXMCyrEMhEeOG8_2_UQ1-uzio",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //devfestkc.com/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZed8RQb9Pz5LvMOY",
+    "title": "Get talking with Actions on Google",
+    "date": "February 18th, 2017",
+    "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences or direct action commands. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
+    "eventTitle": "DevFest KC",
+    "tags": ["actionsongoogle"],
+    "location": "Kansas City, MO",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1L_IDKj0GzFmadZM__XAGo-7AzGDvlsFRUsid80O5TM0",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //devfestkc.com/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZaHltvInXVa-kjNt",
+    "title": "Get talking with Actions on Google",
+    "date": "February 8th, 2017",
+    "description": "Let your users be the voice talent with Actions on Google. Learn how to design, develop, and distribute rich conversational experiences or direct action commands. We’ll show you how to approach voice-driven, natural language interactions with API.AI’s powerful bot platform.",
+    "eventTitle": "GDG Chicago",
+    "tags": ["actionsongoogle"],
+    "location": "Chicago, IL",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1EjoqN1gs7Pfr_RRHRNI7CmNJmL4DgxzEFsroAkbpU7A",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/Google-Developers-Group-GDG-Chicago/events/237220640/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZWvDU7VUnyPTDmSA",
+    "title": "Burn down your competitors with Firebase",
+    "date": "December 5th, 2016",
+    "description": "Google’s Firebase provides a suite of products to help you quickly build realtime apps. We’ll show how Firebase can take care of authentication, database, storage, and scaling while you concentrate on user experience and building an amazing product.",
+    "eventTitle": "ConFoo Vancouver",
+    "tags": ["firebase"],
+    "location": "Vancouver, BC, CA",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1UBKBBubWQtIniOGsu8jFKpFm0j2abRacGwRxyxMqBEc",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //confoo.ca/en/yvr2016",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZRBmB_NDgJ6z2m0T",
+    "title": "Energize your development flow with CLIs",
+    "date": "December 7th, 2016",
+    "description": "Creating personalized CLIs can help you streamline recurring tasks, such as setting up new development environments, managing deployments, and wrangling data. We will walk you through building CLIs in Ruby to help you avoid costly mistakes and ensure consistent results. Create simple commands that perform powerful tasks.",
+    "eventTitle": "ConFoo Vancouver",
+    "tags": ["cli", "ruby"],
+    "location": "Vancouver, BC, CA",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1hB8NNTm8AwelCeARZO9wc_bL-3cabTbhDvccAWXGujM",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //confoo.ca/en/yvr2016",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZPN8eZVq6gUOfuQm",
+    "title": "Web Components: Lego bricks of the web",
+    "date": "November 3rd, 2016",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google's Polymer.",
+    "eventTitle": "DevFest West",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Mountain View, CA",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1TG01U4MpZCPHsTzPdICVGMiIik_onEGJAeTIoAj47ds",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //devfest2016.gdgsv.com/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZMwl5K6WfArx9xkz",
+    "title": "Leverage the power of native with Progressive Web Apps",
+    "date": "November 3rd, 2016",
+    "description": "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) combine the power of native apps with the ease of building and deploying web apps. Learn to craft PWA experiences using new web standards, including service workers, push notifications, and homescreen access.",
+    "eventTitle": "Mobile Era",
+    "tags": ["progressivewebapps"],
+    "location": "Oslo, Norway",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1uRDz3fStZ8oNBi3TK4K0fgIp0rlfsOz8jRhpaUCDGsA",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //mobileera.rocks/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Video",
+        "url": "https: //vimeo.com/190713344",
+        "tag": true,
+        "service": "vimeo"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZKom6cxpaOUtaxkK",
+    "title": "Web Components: Lego bricks of the web",
+    "date": "October 20th, 2016",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google's Polymer.",
+    "eventTitle": "Connect.Tech",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Atlanta, GA",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/10mwL3h6RbjxEAH94M022EgHzFkIO_6lIb_HUWmT3l00",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //connect.tech/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZIrGfzwEjp7UKulY",
+    "title": "Web Components: Lego bricks of the web",
+    "date": "October 1st, 2016",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google's Polymer.",
+    "eventTitle": "Madison PHP Conference",
+    "tags": ["webcomponents", "polymer"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1TG01U4MpZCPHsTzPdICVGMiIik_onEGJAeTIoAj47ds",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "http: //2016.madisonphpconference.com/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Reviews",
+        "url": "https: //joind.in/event/madison-php-conference-2016/web-components-lego-bricks-of-the-web",
+        "tag": true,
+        "service": "joindin"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZGc2sMFHbGMkaRNc",
+    "title": "Leverage the power of native with Progressive Web Apps",
+    "date": "September 16th, 2016",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google's Polymer.",
+    "eventTitle": "Windy City DevCon",
+    "tags": ["progressivewebapps"],
+    "location": "Chicago, IL",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1Cr_Cf2Ef9L7ojQWUTy0kuDMUZHqMYf3d_PO1MQkBtg4",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/Google-Developers-Group-GDG-Chicago/events/232947796/",
+        "tag": false,
+        "service": "external"
+      }
+    ]
+  },
+  {
+    "id": "-KrvZAS455BHznj4ugI2",
+    "title": "The Bendy Game of Life³",
+    "date": "June 15th, 2016",
+    "description": "The Bendy Game of Life is a 3D version of Conway’s Game of Life, which simulates the evolution of a population given initial settings chosen by the player. Visually, the game board is a 3D grid with a variable number of cells filled in or 'alive.' Depending on the number of 'alive' or 'dead' neighbor cells each cell has, it will die, survive, or come alive in the next turn or 'generation.' Generations continue following this algorithm until the population stabilizes.",
+    "eventTitle": "Madhackers",
+    "tags": ["threejs", "ruby", "⚡"],
+    "location": "Madison, WI",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "https: //docs.google.com/presentation/d/1idTXiseohF54-OTHLTReKgFGDxbOVlCAX9UMYUFiois",
+        "tag": false,
+        "service": "google-slides"
+      },
+      {
+        "title": "Event",
+        "url": "https: //www.meetup.com/madhackers/events/231725576/",
+        "tag": false,
+        "service": "external"
+      },
+      {
+        "title": "Video",
+        "url": "https: //www.youtube.com/watch?v=_hewWDDvkMQ",
+        "tag": true,
+        "service": "youtube"
+      }
+    ]
+  }
 ]
