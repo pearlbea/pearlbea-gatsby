@@ -1,8 +1,37 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.1
+version: v1.13.5
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
   'npm:lodash:20180130':
     - gatsby-plugin-favicon > favicons-webpack-plugin > favicons > cheerio > lodash:
         patched: '2018-12-06T13:14:53.412Z'
+  SNYK-JS-LODASH-450202:
+    - gatsby > eslint-plugin-import > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > @babel/traverse > @babel/types > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > babel-eslint > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > css-loader > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby-plugin-sharp > async > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > eslint > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > eslint > inquirer > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > eslint > table > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > webpack-dev-server > http-proxy-middleware > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > gatsby-cli > yurnalist > inquirer > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
+    - gatsby > babel-eslint > @babel/traverse > @babel/generator > lodash:
+        patched: '2019-07-04T08:19:40.445Z'
