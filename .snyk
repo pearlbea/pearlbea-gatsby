@@ -1,8 +1,19 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.1
+version: v1.13.5
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
   'npm:lodash:20180130':
     - gatsby-plugin-favicon > favicons-webpack-plugin > favicons > cheerio > lodash:
         patched: '2018-12-06T13:14:53.412Z'
+  SNYK-JS-LODASH-450202:
+    - gatsby > @babel/traverse > @babel/types > lodash:
+        patched: '2019-07-30T08:18:12.691Z'
+    - gatsby > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2019-07-30T08:18:12.691Z'
+    - gatsby > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2019-07-30T08:18:12.691Z'
+    - gatsby > babel-eslint > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2019-07-30T08:18:12.691Z'
+    - gatsby > babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2019-07-30T08:18:12.691Z'
