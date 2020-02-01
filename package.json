@@ -34,7 +34,7 @@
     "react-typography": "^0.16.13",
     "typography": "^0.16.17",
     "typography-theme-ocean-beach": "^0.15.11",
-    "snyk": "^1.116.0"
+    "snyk": "^1.290.1"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
