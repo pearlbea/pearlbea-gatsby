@@ -20,13 +20,13 @@ export default ({ data }) => {
       <div className={indexStyle.wrapper}>
         <h1 style={{ marginTop: "1em" }}>Pearl Latteier</h1>
         <div>
-          Senior developer at{" "}
+          Frontend engineer at{" "}
           <a
-            href="https://bendyworks.com/"
+            href="https://propellerhealth.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Bendyworks
+            Propeller
           </a>
         </div>
         <div>

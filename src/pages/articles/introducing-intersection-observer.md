@@ -4,6 +4,8 @@ summary: "The IntersectionObserver API is a relatively new web API that allows y
 date: "2018-01-04"
 heroImage: "./introducing-intersection-observer.jpg"
 ---
+Republished with permission from
+[Bendyworks](https://bendyworks.com).
 
 Have you written JavaScript to enable infinite scrolling or to lazy-load images that appear below the fold?
 

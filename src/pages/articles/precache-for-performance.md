@@ -5,6 +5,8 @@ coauthor: ""
 summary: "Improve your page load time by pre-caching resources during service worker installation."
 heroImage: "./precache-for-performance.jpg"
 ---
+Republished with permission from
+[Bendyworks](https://bendyworks.com).
 
 If you're on or around tech Twitter, you've already heard: [#perfmatters](https://twitter.com/hashtag/perfmatters?src=hash). In this instance, the word on Twitter really is true. Web performance does matter. A number of [recent studies][perfmatters] have demonstrated that page load times have a real effect on user retention and conversion. If you want happy users who stick around, you have to be fast.
 

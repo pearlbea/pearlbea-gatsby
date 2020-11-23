@@ -4,7 +4,8 @@ summary: "Progressive Web Apps bring powerful native features like push notifica
 date: "2016-12-01"
 heroImage: "./we-heart-pwa.jpg"
 ---
-Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
+Republished with permission from
+[Bendyworks](https://bendyworks.com). Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
 
 This fall, we’ve had the great fortune to learn and speak about Progressive Web Apps at [conferences around the world](https://bendyworks.com/blog/the-bendyworks-conference-roadshow-early-2017). We think PWAs are pretty PWAsome! In this post we’ll tell you why, and in a future missive we’ll delve into the technical features of PWAs and show you how to build your own.
 

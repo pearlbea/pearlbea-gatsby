@@ -4,7 +4,8 @@ summary: "Optimize rendering to speed up your site's time to interactive"
 date: "2018-04-26"
 heroImage: "./prpl-on-rails-2.jpg"
 ---
-Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
+Republished with permission from
+[Bendyworks](https://bendyworks.com). Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
 
 This is the second of a three-part series on speeding up your Rails application using techniques from the [PRPL pattern][prpl].
 

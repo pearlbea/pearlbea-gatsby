@@ -4,7 +4,8 @@ summary: "Progressive Web Apps bring powerful native features like push notifica
 date: "2017-03-07"
 heroImage: "./we-heart-pwa-2.jpg"
 ---
-Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
+Republished with permission from
+[Bendyworks](https://bendyworks.com). Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
 
 Back in December, we [raved about Progressive Web Apps](https://bendyworks.com/blog/we-heart-pwas) -- modern web apps that have native mobile features like instant loading, homescreen icons, offline access, and push notifications.
 

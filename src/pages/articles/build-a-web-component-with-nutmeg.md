@@ -5,6 +5,9 @@ date: "2018-01-22"
 heroImage: "./build-a-web-component-with-nutmeg.png"
 ---
 
+Republished with permission from
+[Bendyworks](https://bendyworks.com).
+
 You're in love with web components. I know. So am I. Let's not waste time rehearing their benefits and get right to building one. In a [previous post](https://bendyworks.com/blog/native-web-components), I wrote about building a web component from scratch. This time I'll use [Nutmeg][nutmeg], a tool (developed by my Bendyworks colleague [Abraham Williams][abraham]) that helps you quickly build, test, and publish a web component. Nutmeg sets you up with a component scaffold that has [best practices][best] and testing baked in. It takes care of the boilerplate so that you can focus on the component itself.
 
 Using Nutmeg, I'm going to create a component that displays information about a [Google Developer Group][gdg]. The component will take a GDG's name, fetch info about the GDG from [Meetup's API][meetup], and display it like this:

@@ -1,5 +1,5 @@
 import React from "react";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Img from "gatsby-image";
 import { Helmet } from "react-helmet";
 import Container from "../components/container";
@@ -19,10 +19,6 @@ export default ({ data }) => {
       <Header />
       <Container style={{ maxWidth: 700 }}>
         <h1>{article.frontmatter.title}</h1>
-        <p>
-          Republished with permission from{" "}
-          <Link to="https://bendyworks.com/">Bendyworks</Link>.
-        </p>
         <Img
           sizes={article.frontmatter.heroImage.childImageSharp.sizes}
           alt=""

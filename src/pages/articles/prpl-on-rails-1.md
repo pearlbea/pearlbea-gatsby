@@ -4,7 +4,9 @@ summary: "Split your Rails JavaScript with Webpack to make your site load faster
 date: "2018-04-24"
 heroImage: "./prpl-on-rails-1.jpg"
 ---
-Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
+
+Republished with permission from
+[Bendyworks](https://bendyworks.com).  Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
 
 This is the first of a three-part series on speeding up your Rails application load time using techniques from the [PRPL pattern][prpl].
 

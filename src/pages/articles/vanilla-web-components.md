@@ -4,6 +4,8 @@ summary: "Make a re-useable, encapsulated web component using Custom Elements v1
 date: "2017-05-04"
 heroImage: "./vanilla-web-components.png"
 ---
+Republished with permission from
+[Bendyworks](https://bendyworks.com).
 
 Say you have a little form or widget that you use in several different places across your website or in several different projects. You want all the instances to have consistent style and behavior, but you also want them to have some flexibility. Maybe your form should vary in size depending on the container element, or your widget should display different text and icons in different projects. You know what you need? You need a web component!
 

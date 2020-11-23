@@ -5,6 +5,8 @@ date: "2018-07-06"
 summary: "Explore different web component libraries by comparing vanilla JavaScript, Nutmeg, Polymer, and Stencil versions of the same component."
 heroImage: "./tale-of-four-components.jpg"
 ---
+Republished with permission from
+[Bendyworks](https://bendyworks.com).
 
 There is more than one way to write a web component. You can build a component from scratch or you can rely on one of a growing number of web component libraries. Libraries are great: they handle both the dullest and the trickiest parts, protecting you from boilerplate code and edge-case errors. But they also increase your component size and sometimes make testing more difficult.
 

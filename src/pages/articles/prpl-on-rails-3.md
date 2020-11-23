@@ -4,7 +4,8 @@ summary: "Improve your site's performance with service worker caching"
 date: "2018-05-01"
 heroImage: "./prpl-on-rails-3.jpg"
 ---
-Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams).
+Republished with permission from
+[Bendyworks](https://bendyworks.com). Co-authored with [Abraham Williams](https://bendyworks.com/blog/authors/abraham_williams). 
 
 This is the third of a three-part series on speeding up your Rails application using techniques from the [PRPL pattern][prpl]. Part 1 covers [code splitting](https://bendyworks.com/blog/prpl-on-rails-part-1-code-splitting), part 2 shows you how to [optimize rendering](https://bendyworks.com/blog/prpl-on-rails-part-2-optimize-rendering), and this part demonstrates pre-caching and runtime caching with service workers.
 
