@@ -40,6 +40,12 @@ export default ({ data }) => {
           in web technologies
         </div>
         <div>
+          <a
+            href="https://events.mozilla.org/techspeakers"
+            target="_blank"
+            rel="noopener noreferrer">
+            Mozilla Tech Speaker</a></div>
+        <div>
           Co-organizer of{" "}
           <a
             href="https://www.meetup.com/gdgmadison/"
@@ -50,7 +56,7 @@ export default ({ data }) => {
           </a>
           ,{" "}
           <a
-            href="https://www.womentechmakers.com/directory/pearl-latteier"
+            href="https://www.womentechmakers.com/ambassadors/pearl-latteier"
             target="_blank"
             rel="noopener noreferrer"
           >

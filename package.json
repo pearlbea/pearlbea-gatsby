@@ -9,9 +9,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "test": "jest",
-    "test-coverage": "jest --coverage",
-    "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "test-coverage": "jest --coverage"
   },
   "dependencies": {
     "@material-ui/core": "^3.9.4",
@@ -77,6 +75,5 @@
     "setupFiles": [
       "<rootDir>/loadershim.js"
     ]
-  },
-  "snyk": true
+  }
 }
